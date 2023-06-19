@@ -117,7 +117,7 @@ divider = '------------------------------------'
 runTotal = 100
 threads = 2
 
-model= "custom_dpu_compiled_2.xmodel"
+model= "hmlp.xmodel"
 out_q = [None] * runTotal
 g = xir.Graph.deserialize(model)
 subgraphs = get_child_subgraph_dpu(g)
