@@ -1,0 +1,8 @@
+{
+    "lib": "libvart-dpu-runner.so",
+    "filename": "Handwritten_digits_recognition_cnn.xmodel",
+    "kernel": [
+        "subgraph_quant_conv2d_2"
+    ],
+    "target": "DPUCZDX8G_ISA1_B4096"
+}
