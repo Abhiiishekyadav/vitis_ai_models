@@ -1,2 +1,1 @@
-
-Throughput=197.58 fps, total frames = 100, time=0.5061 seconds
+Throughput=198.48 fps, total frames = 100, time=0.5038 seconds
