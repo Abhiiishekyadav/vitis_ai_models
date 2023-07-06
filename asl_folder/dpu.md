@@ -1,3 +1,3 @@
 Throughput=1018.37 fps, total frames = 100, time=0.0982 seconds
-Model_accuracy=83.05%,Total params: 4,511,761
+Model_training_accuracy=89.74%,Model_testing_accuracy=83.05%,Total params: 4,511,761
 quantized_accuracy=80.18%,
